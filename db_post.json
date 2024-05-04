@@ -1,0 +1,28 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "First post",
+            "desc": "First description",
+            "createdBy": 1,
+            "createdDate": "2024-04-04T21:04:02.000+00:00",
+            "updatedDate": "2024-04-04T21:04:02.000+00:00"
+        },
+        {
+            "id": 2,
+            "title": "Updated Title",
+            "desc": "Updated Description",
+            "createdBy": 1,
+            "createdDate": "2024-04-04T21:04:18.000+00:00",
+            "updatedDate": "2024-04-04T21:04:18.000+00:00"
+        },
+        {
+            "id": 3,
+            "title": "Prahelika Demo",
+            "desc": "Demo for Prahelika",
+            "createdBy": 1,
+            "createdDate": "2024-04-05T10:29:39.000+00:00",
+            "updatedDate": "2024-04-05T10:29:39.000+00:00"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+<section>
+    <!--<a [routerLink]="['/details', post.id]">Read More</a>-->
+    <mat-card class="post-card">
+        <mat-card-header>
+            <mat-card-title>{{post.title}}</mat-card-title>
+            <mat-card-subtitle>Created By: {{post.createdBy}}</mat-card-subtitle>
+        </mat-card-header>
+        <mat-card-content>
+            <p>{{post.desc}}</p>
+        </mat-card-content>
+        <mat-card-actions align="start">
+            <button mat-button>LIKE</button>
+            <button mat-button><a [routerLink]="['/details', post.id]">Read More</a></button>
+        </mat-card-actions>
+    </mat-card>
+    <br>
+</section>
