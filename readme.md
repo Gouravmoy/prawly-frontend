@@ -1,18 +1,17 @@
-Sure, here's a README.md file based on the details you provided:
-
-```markdown
 # Prawly Frontend
 
 Prawly Frontend is a small UI application built using Angular 17. It serves as the frontend for the Posts application named Prawly.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Prawly Frontend](#prawly-frontend)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Introduction
 
@@ -47,7 +46,4 @@ Contributions to Prawly Frontend are welcome! If you find any bugs, have feature
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Feel free to adjust or expand upon this README.md file as needed. Let me know if you need any further assistance!
+This project is licensed under the MIT License
