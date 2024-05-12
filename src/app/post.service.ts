@@ -17,7 +17,7 @@ export class PostService {
 
   }
 
-  async getPostById(id: number): Promise<HousingLocation | undefined> {
+  async getPostById(id: number): Promise<Post | undefined> {
     const data = await fetch(`${this.url}/${id}`);
     return await data.json() ?? {};
   }
